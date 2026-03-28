@@ -1,0 +1,14 @@
+Task1/
+Task1_val/
+checkpoints/
+Paired MRI (T1, T2) and CT Scans Dataset/
+processed/
+outputs/
+
+
+*.pdf
+*.docx
+*.pptx
+*.csv
+*.xlsx
+*.txt
