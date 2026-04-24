@@ -4,6 +4,8 @@ checkpoints/
 Paired MRI (T1, T2) and CT Scans Dataset/
 processed/
 outputs/
+venv/
+eval_results/
 
 
 *.pdf
@@ -12,3 +14,4 @@ outputs/
 *.csv
 *.xlsx
 *.txt
+*.png
